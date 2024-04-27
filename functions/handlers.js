@@ -1,7 +1,7 @@
 const status = "AUTOMATIC";
 const botName = "🌇 MULTI MUSIX ADV";
 const rtxText = "GlaceYT";
-const version = "Latest@ v1.5"; 
+const version = "TheLegend"; 
 const startTime = Date.now();
 
 function printWatermark() {
